@@ -8,7 +8,7 @@ This repository includes Jupyter notebooks with self-implemented unsupervised ma
 
 - K-means clustering
 - Anomaly detection
-- A simple recommender system
+- Recommender system using collaborative filtering
 
 Each notebook is structured to implement algorithms step-by-step, and test them on sample data from the course labs.
 
@@ -69,3 +69,4 @@ This project is licensed under the [MIT License](LICENSE.md) - see the LICENSE.m
 
 Inspiration and resources:
 * [Coursera: Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+* [Tensors and operations in tensorflow](https://www.tensorflow.org/tutorials/customization/basics)
